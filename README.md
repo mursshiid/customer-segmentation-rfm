@@ -36,11 +36,11 @@ Python, pandas, numpy, matplotlib, seaborn, plotly, Jupyter
 
 ## Key Findings
 
-![Monthly Revenue](monthly_revenue.png)
+![Monthly Revenue](images/monthly_revenue.png)
 
 Revenue shows a strong pre-Christmas seasonal spike each year (Oct-Nov), consistent with a gift-ware retailer.
 
-![Customer Share vs Revenue Share](revenue_share.png)
+![Customer Share vs Revenue Share](images/revenue_share.png)
 
 - **Champions** are 12.9% of customers but generate **54.9%** of total revenue — a strong 80/20 pattern.
 - **"About to Sleep"** is the 2nd-largest segment by customer count but only 2.9% of revenue — most of these customers were never big spenders.
